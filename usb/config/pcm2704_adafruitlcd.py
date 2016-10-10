@@ -1,0 +1,6 @@
+# Setup for PCM2704 / Adafruit LCD
+AUDIO_DEVICE_ID = 0
+SAMPLES_DIR = "/media/samples"
+MIDI_CHANNEL_IGNORE = True
+CHANNELS = 2
+USE_ADAFRUITLCD = True

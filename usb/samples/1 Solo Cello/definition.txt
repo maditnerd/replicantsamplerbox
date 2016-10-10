@@ -1,0 +1,4 @@
+%notenamev1.wav,%velocity=40
+%notenamev2.wav,%velocity=60
+%notenamev3.wav,%velocity=80
+%notenamev4.wav,%velocity=100

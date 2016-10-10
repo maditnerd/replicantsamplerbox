@@ -1,0 +1,6 @@
+%%volume=0.6
+%notenamev40.wav,%velocity=40
+%notenamev60.wav,%velocity=60
+%notenamev80.wav,%velocity=80
+%notenamev100.wav,%velocity=100
+%notenamev115.wav,%velocity=115
