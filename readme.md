@@ -9,8 +9,5 @@ SD Card image : https://github.com/maditnerd/replicantsamplerbox/releases
 * LCD 16x2 Shield
 * USB Drive
 
-# 3D models
-Design by Olivier Sarrailh (WIP)
-[See models](...)
 
 
