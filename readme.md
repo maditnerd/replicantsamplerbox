@@ -1,14 +1,16 @@
 Replicant Samplerbox
 --------------------
-This is my version of Samplerbox, no soldering is required.
+This is my version of Samplerbox, no soldering is required.   
+SD Card image : https://github.com/maditnerd/replicantsamplerbox/releases
 
 # Components
 * Raspberry Pi
 * PCM soundcard
 * LCD 16x2 Shield
+* USB Drive
 
 # 3D models
-Design by Olivier Sarrailh
+Design by Olivier Sarrailh (WIP)
 [See models](...)
 
 
